@@ -75,6 +75,14 @@ Frequency Map Using Dictionary:
 Hashing:
     Prestoring of values into some data structures like list/dictionary/set and fetching it.
     QUESTION-1:
-        There are 2 lists named m and n such that m can have any number but n can only have numbers between 0 and 10, print all the numbers that are present in m and n and print how many times  -->  refer 9.py for 1st question 
+        There are 2 lists named m and n such that m can have any number but n can only have numbers between 0 and 10, print all the numbers that are present in m and n and print how many times  -->  refer 9.py for 1st question(this was my approach) 10.py(this gives the approach that was taught)
+
+    QUESTION-2:
+        Charachter hashing --> refer to 11.py
+
+---------------------------------------------------------------------------------------
+
+Recursion Theory:
+    
 
 
