@@ -58,7 +58,23 @@ Extraction of Digits using Loops:
     Counting Digits -> Refer 2.py
     Number Reversal -> Refer 3.py
     Armstrong Number -> Refer 4.py
-    
+    Print all factors -> Refer 5.py and 6.py(optimised)
 
+--------------------------------------------------------------------------------------
+
+Frequency Map Using Dictionary:
+    Method-1: 
+        Iterating the whole list one by one and updating the dictionary accrodinglly for more refer to 7.py
+        T.C. -> O(n)
+
+    Method-2:
+        refer to 8.py
+
+-------------------------------------------------------------------------------------
+
+Hashing:
+    Prestoring of values into some data structures like list/dictionary/set and fetching it.
+    QUESTION-1:
+        There are 2 lists named m and n such that m can have any number but n can only have numbers between 0 and 10, print all the numbers that are present in m and n and print how many times  -->  refer 9.py for 1st question 
 
 
