@@ -5,4 +5,5 @@ def func(n):
 
 print(func(3))
 
-#Time Comolexity -> O(n)
+#Time Complexity -> O(n)
+#Space Complexity -> O(n)

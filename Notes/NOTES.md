@@ -107,6 +107,7 @@ Recursion Theory:
     
     Functional Recursion:
         Sum of N natural numbers --> refer to 20.py
+        Factorial of a number --> 21.py
 
     
 
