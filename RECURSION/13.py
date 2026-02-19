@@ -1,8 +1,7 @@
 def func(count=0):
-    if count == 4:
+    if count==4:
         return
-    print("Name")
-    
     func(count+1)
+    print("Name")
 
-func()    
+func()

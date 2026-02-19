@@ -83,6 +83,31 @@ Hashing:
 ---------------------------------------------------------------------------------------
 
 Recursion Theory:
+    When a function calls itself it is known as recursion
+    Head Recursion:
+        When the operation is performed first and then the function is called(here operation means something like printing a statement)
+    Tail Recursion:
+        When the function is called first and then the operation is performed
+    refer 12.py for head recursion
+    refer 13.py for tail recursion
+
+    Time Complexity --> O(n)
+    Space Complexity --> O(n)
+
+    Recursion Using Parametrs:
+        Usually recursion is performed by using parameters instead of global variable
+        for this refer 14.py
+        Printing 1 to N using recursion ---> refer to 15.py
+        Printing 1 to N using tail recursion ---> refer to 16.py
+        Printing N to 1 using head recursion ---> refer to 17.py
+        Printing N to 1 using tail recursion ---> refer to 18.py
+    
+    Parameterised Recursiion:
+        Sum of N natural numbers --> refer to 19.py
+    
+    Functional Recursion:
+        Sum of N natural numbers --> refer to 20.py
+
     
 
 
