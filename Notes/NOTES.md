@@ -108,6 +108,9 @@ Recursion Theory:
     Functional Recursion:
         Sum of N natural numbers --> refer to 20.py
         Factorial of a number --> 21.py
+        Reversing an Array --> 22.py
+        Checking string palindrome --> 23.py (recursion) and 24.py (for loop)
+    
 
     
 
